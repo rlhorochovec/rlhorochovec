@@ -1,5 +1,13 @@
-### Hi there 👋
+# Olá, podem me chamar de Xovec! 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlhorochovec&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rlhorochovec&hide=html&layout=compact&theme=github_dark)
 
+
+## Como me achar?
+![](https://komarev.com/ghpvc/?username=rlhorochovec&color=grey)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rlhorochovec)](https://github.com/rlhorochovec)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rlhorochovec)]( https://www.linkedin.com/in/rlhorochovec)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5541987068376&text=Ol%C3%A1%20Rafael!%20Estou%20entrando%20em%20contato%20pelo%20site.)]( https://www.linkedin.com/in/rlhorochovec)
 <!--
 **rlhorochovec/rlhorochovec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
