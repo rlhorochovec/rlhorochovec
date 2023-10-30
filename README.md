@@ -1,6 +1,6 @@
 # Xovec
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlhorochovec&show_icons=true&theme=default) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rlhorochovec&hide=html&layout=compact&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rlhorochovec&hide=html&layout=compact&theme=tokyonight)
 
 
 ## Como me achar?
