@@ -2,9 +2,10 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlhorochovec&show_icons=true&theme=default) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rlhorochovec&hide=html&layout=compact&theme=tokyonight)
 
+![](https://komarev.com/ghpvc/?username=rlhorochovec&color=grey)
+
 
 ## Como me achar?
-![](https://komarev.com/ghpvc/?username=rlhorochovec&color=grey)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rlhorochovec)](https://github.com/rlhorochovec)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:rl.horochovec@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rlhorochovec)]( https://www.linkedin.com/in/rlhorochovec)
