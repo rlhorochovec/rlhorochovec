@@ -1,7 +1,8 @@
 # Xovec
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlhorochovec&show_icons=true&theme=default) -->
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlhorochovec&show_icons=true&theme=default)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rlhorochovec&hide=html&layout=compact&theme=tokyonight)
-
+-->
 ![](https://komarev.com/ghpvc/?username=rlhorochovec&color=grey)
 
 
@@ -20,6 +21,7 @@
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=flat)
 ![Cucumber Badge](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=fff&style=flat)
 ![Robot Framework Badge](https://img.shields.io/badge/Robot%20Framework-000?logo=robotframework&logoColor=fff&style=flat)
+![Appium Badge](https://img.shields.io/badge/Appium-EE376D?logo=appium&logoColor=fff&style=flat)
 ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat)
 <!--
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=flat)
