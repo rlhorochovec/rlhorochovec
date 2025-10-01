@@ -1,5 +1,5 @@
 # Xovec
-> Profissional com mais de 10 anos de experiência em **automação de testes** de aplicações *Desktop, Web, Mobile e API*.
+> Profissional com mais de 11 anos de experiência em **automação de testes** de aplicações *Desktop, Web, Mobile e API*.
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/rlhorochovec)](https://github.com/rlhorochovec)
@@ -7,7 +7,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rlhorochovec)]( https://www.linkedin.com/in/rlhorochovec)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5541987068376)](https://wa.me/5541987068376)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat)](https://www.youtube.com/@rafaelhorochovec)
-[![PDF Curriculum](https://img.shields.io/badge/pdf-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24)](https://rlhorochovec.github.io/rafael_horochovec.pdf)
 
 
 ## Principais Skills
