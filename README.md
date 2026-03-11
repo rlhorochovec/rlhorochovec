@@ -1,5 +1,5 @@
 # Xovec
-> Profissional com mais de 11 anos de experiência em **automação de testes** de aplicações *Desktop, Web, Mobile e API*.
+> Profissional com mais de **12 anos** de experiência em **automação de testes** para aplicações *Desktop, Web, Mobile e APIs*, atuando desde a definição da estratégia até a entrega contínua em pipelines de qualidade.
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/rlhorochovec)](https://github.com/rlhorochovec)
