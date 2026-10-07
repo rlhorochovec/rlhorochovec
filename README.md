@@ -1,4 +1,5 @@
 # Xovec
+#### QA Engineer SR | Test Automation | SDET | CTFL | AZ-900 | DP-900 | Selenium | Appium | Cypress | CodeceptJS | Robot Framework | Playwright | Postman | CI/CD
 > Profissional com mais de 12 anos de experiência em automação de testes para aplicações Desktop, Web, Mobile e APIs, atuando desde a definição da estratégia até a entrega contínua em pipelines de qualidade. Experiência sólida no desenvolvimento, manutenção e evolução de frameworks de automação, além do planejamento detalhado das iniciativas de QA — incluindo levantamento de requisitos, análise de viabilidade, estimativas de esforço, custos e prazos.
 
 > Ao longo da carreira, tenho trabalhado diretamente na implementação de boas práticas de automação, padronização de processos, suporte a times de desenvolvimento/QA e integração completa com ferramentas de gestão e CI/CD. Forte atuação em ambientes colaborativos, orientados a resultados e com foco na escalabilidade das soluções de teste.
