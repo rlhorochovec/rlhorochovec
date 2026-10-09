@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:rl.horochovec@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rlhorochovec)]( https://www.linkedin.com/in/rlhorochovec)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5541987068376)](https://wa.me/5541987068376)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat)](https://www.youtube.com/@rafaelhorochovec)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat)](https://www.youtube.com/playlist?list=PL4yfOqw-l_1gs6tSYzxYRwnK_DXhk_U3L)
 
 __________________________________________________________________________________________
 
